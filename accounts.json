@@ -1,0 +1,58 @@
+[
+  {
+    "id": "568aabd8-c431-485f-845a-c447083ab287",
+    "name": "Account1",
+    "description": "Account 1 description",
+    "accountType": "user",
+    "ownerID": "568aabd8-c431-485f-845a-c447083ab287",
+    "parentID": "515465d6-38d2-4f60-b8ac-a4f625089f6c",
+    "email": "account1@gmail.com",
+    "geohash": "u3qcjurehqzm",
+    "geoData": {
+      "geoType": "Location",
+      "geometry": {
+        "geometryType": "Point",
+        "coordinates": [
+          [
+            52.23089172625749,
+            21.013386148361292
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Location Account 1",
+        "geohash": "u3qcjurehqzm"
+      }
+    }
+  },
+  {
+    "id": "338681c2-fb4b-4448-957a-297729eab4a8",
+    "name": "Account2",
+    "description": "Account 2 description",
+    "accountType": "user",
+    "ownerID": "568aabd8-c431-485f-845a-c447083ab287",
+    "parentID": "3fdcd744-48c8-467f-9ed8-c8a06dc50a5d",
+    "email": "account1@gmail.com",
+    "geoHash": "u3qcn5v7tm5u",
+    "geoData": {
+      "geoType": "Location",
+      "geometry": {
+        "geometryType": "Point",
+        "coordinates": [
+          [
+            52.230891726257491,
+            21.018792915001654
+          ],
+          [
+            52.230891726257491,
+            21.018792915001654
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Location Account 2",
+        "geohash": "u3qcn5v7tm5u"
+      }
+    }
+  }
+]
